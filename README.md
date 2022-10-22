@@ -2,7 +2,7 @@
 - 👀 I’m interested in read books.
 - 🌱 I’m currently learning AI.
 - 💞️ I’m looking to collaborate on AI, education, stats, math subjects.
-- 📫 How to reach me 
+- 📫 rejoice@mail.mcu.edu.tw
 
 <!---
 rejoicechou/rejoicechou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
